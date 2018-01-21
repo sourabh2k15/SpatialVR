@@ -283,6 +283,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Grass And Flowers Pack 1\Example Scene\SimpleTextureDrawing.cs" />
+    <Compile Include="Assets\HandleClick.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\OculusPlatform\Scripts\AchievementType.cs" />
     <Compile Include="Assets\OculusPlatform\Scripts\AndroidPlatform.cs" />
@@ -469,6 +470,7 @@
     <Compile Include="Assets\OvrAvatar\Scripts\OvrAvatarSkinnedMeshRenderComponent.cs" />
     <Compile Include="Assets\OvrAvatar\Scripts\OvrAvatarSkinnedMeshRenderPBSComponent.cs" />
     <Compile Include="Assets\OvrAvatar\Scripts\OvrAvatarTouchController.cs" />
+    <Compile Include="Assets\SceneLoader.cs" />
     <Compile Include="Assets\SFBayStudios\SFB Demo Scripts\SFB_AudioManager.cs" />
   </ItemGroup>
   <ItemGroup>
